@@ -18,3 +18,10 @@ With innovative approaches and advanced methodologies, Vecta Corporation provide
 > Incredible results from an incredible effort by the Vecta Corporation team! We are very pleased with the business benefits we have rceived by working with them.  
 > -_Justin Case, CTO, IX Inc._
 
+## Contact us
+
+**Vecta Corporation**  
+555 Technology Place  
+San Diego, CA 92115  
+Tel. (800) 555-5555  
+
