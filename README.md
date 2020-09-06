@@ -1,7 +1,7 @@
 # Welcome to Vecta Corp.
 
-A perfect vSolutions for your agile online business
-![Ebusiness solutions](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aranetllc.com%2Fservices%2Febusiness-solutions&psig=AOvVaw3lDsy4v4-MA66gLqlLmGGf&ust=1599513048168000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj1lM241esCFQAAAAAdAAAAABAD)
+A perfect vSolutions for your agile online business  
+![ebusiness solutions](https://www.aranetllc.com/fileslibrary/desktop/pages/aranet-ebusiness-solutions.jpg)
 
 ## About us
 
