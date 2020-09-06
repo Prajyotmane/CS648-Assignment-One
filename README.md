@@ -25,3 +25,6 @@ With innovative approaches and advanced methodologies, Vecta Corporation provide
 San Diego, CA 92115  
 Tel. (800) 555-5555  
 
+## Follow us
+[Facebook](https://www.facebook.com)
+[Twitter](https://www.twitter.com)
